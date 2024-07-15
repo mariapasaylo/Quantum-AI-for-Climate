@@ -42,8 +42,8 @@ Team Member 2:
 
 
 Team Member 3:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Soheil Mirzarasouli
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-EPXIYG1XCm7RGem
 
 
 Team Member 4:
