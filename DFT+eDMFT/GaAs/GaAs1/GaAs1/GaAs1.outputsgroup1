@@ -1,0 +1,283 @@
+warning: !!! Bravais lattice has changed.
+
+----------------------------------------------------------------------
+
+Bravais lattice: Monoclinic B-base centred
+
+     a             b            c
+ 30.73446413    37.64187731   30.73446413
+     alpha         beta         gamma
+ 90.00000000    90.00000000   144.73561032
+
+
+===== Decomposition of new basis vectors over input basis =====
+ 0.000000  -1.000000 -1.000000  <--- 1
+-1.000000   1.000000  1.000000  <--- 2
+ 0.000000   1.000000 -1.000000  <--- 3
+
+==== Number of atoms in cell (only atoms of primitive cell): 16 
+==== Atom positions (only atoms of primitive cell):
+
+ 0.00000000   0.00000000  0.00000000
+ Ga1
+
+ 0.50092028   0.50092028  0.00000000
+ Ga2
+
+ 0.75092028   0.00092028  0.25000000
+ Ga3
+ 0.75092028   0.00092028  0.75000000
+ Ga3
+
+ 0.25092028   0.50092028  0.25000000
+ Ga4
+ 0.25092028   0.50092028  0.75000000
+ Ga4
+
+ 0.50092028   0.00092028  0.00000000
+ Ga5
+
+ 0.00092028   0.50092028  0.00000000
+ Ga6
+
+ 0.75092028   0.87592028  0.00000000
+ As7
+
+ 0.25092028   0.37592028  0.00000000
+ As8
+
+ 0.50092028   0.87592028  0.25000000
+ As9
+ 0.50092028   0.87592028  0.75000000
+ As9
+
+ 0.00092028   0.37592028  0.25000000
+ As10
+ 0.00092028   0.37592028  0.75000000
+ As10
+
+ 0.25092028   0.87592028  0.00000000
+ As11
+
+ 0.75092028   0.37592028  0.00000000
+ As12
+
+==== Number of nonequivalent sorts: 12
+==== Nonequivalent atoms, point group for each sort: ====
+
+Sort number: 1
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.00000000   0.00000000  0.00000000
+   Ga1
+
+Sort number: 2
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.50092028   0.50092028  0.00000000
+   Ga2
+
+Sort number: 3
+  Names of point group: 1      1      C1
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 2
+   0.75092028   0.00092028  0.25000000
+   Ga3
+   0.75092028   0.00092028  0.75000000
+   Ga3
+
+Sort number: 4
+  Names of point group: 1      1      C1
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 2
+   0.25092028   0.50092028  0.25000000
+   Ga4
+   0.25092028   0.50092028  0.75000000
+   Ga4
+
+Sort number: 5
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.50092028   0.00092028  0.00000000
+   Ga5
+
+Sort number: 6
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.00092028   0.50092028  0.00000000
+   Ga6
+
+Sort number: 7
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.75092028   0.87592028  0.00000000
+   As7
+
+Sort number: 8
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.25092028   0.37592028  0.00000000
+   As8
+
+Sort number: 9
+  Names of point group: 1      1      C1
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 2
+   0.50092028   0.87592028  0.25000000
+   As9
+   0.50092028   0.87592028  0.75000000
+   As9
+
+Sort number: 10
+  Names of point group: 1      1      C1
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 2
+   0.00092028   0.37592028  0.25000000
+   As10
+   0.00092028   0.37592028  0.75000000
+   As10
+
+Sort number: 11
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.25092028   0.87592028  0.00000000
+   As11
+
+Sort number: 12
+  Names of point group: m      m      Cs
+  New basis vectors for this point group:
+    1.0000   0.0000  0.0000  <--- 1
+    0.0000   1.0000  0.0000  <--- 2
+    0.0000   0.0000  1.0000  <--- 3
+
+  Atom positions: 1
+   0.75092028   0.37592028  0.00000000
+   As12
+
+======================================================================
+
+Number and name of space group: 8 (C m) [unique axis c] cell choice 2
+- Short - Full - Schoenflies - names of point group:
+ m      m      Cs
+
+Number of symmetry operations: 2
+Operation: 1
+ 1.0   0.0   0.0  0.000
+ 0.0   1.0   0.0  0.000
+ 0.0   0.0   1.0  0.000
+
+Operation: 2
+ 1.0   0.0   0.0  0.000
+ 0.0   1.0   0.0  0.000
+ 0.0   0.0  -1.0  0.000
+
+============================================================
+Note that shift vectors for this space group are defined
+only up to the vector { X, Y, 0 }.
+Here X and Y can take any values.
+
+===== Number of possible shift vectors: 2 =====
+===== List of shift vectors:
+ 0.0000   0.0000   0.0000
+ 0.0000   0.0000   0.5000
+
+List of shifted cells:
+
+Cell #1 
+  Shift vector:  0.0000   0.0000   0.5000
+  Nonequivalent atoms :
+
+ 0.00000000   0.00000000  0.50000000
+ Ga1
+
+ 0.50092028   0.50092028  0.50000000
+ Ga2
+
+ 0.75092028   0.00092028  0.75000000
+ Ga3
+ 0.75092028   0.00092028  0.25000000
+ Ga3
+
+ 0.25092028   0.50092028  0.75000000
+ Ga4
+ 0.25092028   0.50092028  0.25000000
+ Ga4
+
+ 0.50092028   0.00092028  0.50000000
+ Ga5
+
+ 0.00092028   0.50092028  0.50000000
+ Ga6
+
+ 0.75092028   0.87592028  0.50000000
+ As7
+
+ 0.25092028   0.37592028  0.50000000
+ As8
+
+ 0.50092028   0.87592028  0.75000000
+ As9
+ 0.50092028   0.87592028  0.25000000
+ As9
+
+ 0.00092028   0.37592028  0.75000000
+ As10
+ 0.00092028   0.37592028  0.25000000
+ As10
+
+ 0.25092028   0.87592028  0.50000000
+ As11
+
+ 0.75092028   0.37592028  0.50000000
+ As12

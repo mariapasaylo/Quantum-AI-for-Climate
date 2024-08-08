@@ -1,0 +1,21 @@
+-10.000000 10.000000 1 5              # hybridization Emin and Emax, measured from FS, renormalize for interstitials, projection type
+1 0.025 0.025 200 -3.000000 1.000000  # matsubara, broadening-corr, broadening-noncorr, nomega, omega_min, omega_max (in eV)
+1                                     # number of nonequivalent correlated problems
+  1   1 2 3 4 5 6 7 8                 # iucp, cix's
+8                                     # number of correlated atoms
+1     1   0                           # iatom, nL, locrot
+  2   2   1                           # L, qsplit, cix
+2     1   0                           # iatom, nL, locrot
+  2   2   2                           # L, qsplit, cix
+3     1   0                           # iatom, nL, locrot
+  2   2   3                           # L, qsplit, cix
+4     1   0                           # iatom, nL, locrot
+  2   2   4                           # L, qsplit, cix
+5     1   0                           # iatom, nL, locrot
+  2   2   5                           # L, qsplit, cix
+6     1   0                           # iatom, nL, locrot
+  2   2   6                           # L, qsplit, cix
+7     1   0                           # iatom, nL, locrot
+  2   2   7                           # L, qsplit, cix
+8     1   0                           # iatom, nL, locrot
+  2   2   8                           # L, qsplit, cix

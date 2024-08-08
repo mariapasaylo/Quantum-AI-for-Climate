@@ -1,0 +1,311 @@
+Title                                                                          
+P                           12
+             RELA
+ 21.732548 21.732548 21.732548 90.000000 90.000000 90.000000
+      -1    0.00092028   0.00000000   0.00000000
+                1
+ NAMED ATOM: Ga1       Z changed to IATNR+999 to determine equivalency
+Ga1        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 31.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -2    0.50000000   0.00000000   0.00000000
+                1
+ NAMED ATOM: Ga2       Z changed to IATNR+999 to determine equivalency
+Ga2        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 31.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -3    0.00000000   0.50000000   0.00000000
+                2
+      -3    0.00000000   0.00000000   0.50000000
+ NAMED ATOM: Ga3       Z changed to IATNR+999 to determine equivalency
+Ga3        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 31.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -4    0.50000000   0.50000000   0.00000000
+                2
+      -4    0.50000000   0.00000000   0.50000000
+ NAMED ATOM: Ga4       Z changed to IATNR+999 to determine equivalency
+Ga4        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 31.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -5    0.00000000   0.50000000   0.50000000
+                1
+ NAMED ATOM: Ga5       Z changed to IATNR+999 to determine equivalency
+Ga5        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 31.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -6    0.50000000   0.50000000   0.50000000
+                1
+ NAMED ATOM: Ga6       Z changed to IATNR+999 to determine equivalency
+Ga6        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 31.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -7    0.12500000   0.12500000   0.12500000
+                1
+ NAMED ATOM: As7       Z changed to IATNR+999 to determine equivalency
+As7        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 33.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -8    0.62500000   0.12500000   0.12500000
+                1
+ NAMED ATOM: As8       Z changed to IATNR+999 to determine equivalency
+As8        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 33.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -9    0.12500000   0.62500000   0.12500000
+                2
+      -9    0.12500000   0.12500000   0.62500000
+ NAMED ATOM: As9       Z changed to IATNR+999 to determine equivalency
+As9        NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 33.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+     -10    0.62500000   0.62500000   0.12500000
+                2
+     -10    0.62500000   0.12500000   0.62500000
+ NAMED ATOM: As10      Z changed to IATNR+999 to determine equivalency
+As10       NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 33.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+     -11    0.12500000   0.62500000   0.62500000
+                1
+ NAMED ATOM: As11      Z changed to IATNR+999 to determine equivalency
+As11       NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 33.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+     -12    0.62500000   0.62500000   0.62500000
+                1
+ NAMED ATOM: As12      Z changed to IATNR+999 to determine equivalency
+As12       NPT=  781  R0=0.00005000 RMT=    2.3300   Z: 33.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+ Bravais Matrix:
+        1.00000        0.00000        0.00000
+        0.00000        1.00000        0.00000
+        0.00000        0.00000        1.00000
+  
+ Bond-Valence Sums are calculated for current lattice parameters
+ and rescaled ones by 1 %. (You can put scaling into  .latcalib)
+
+ ATOM:  1  EQUIV.  1  Ga1        AT   0.00092   0.00000   0.00000
+ RMT(  1)=2.33000 AND RMT(  7)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.69372
+ ATOM:  7  As7       AT  0.1250  0.1250  0.1250 IS  4.69372 A.U.   2.48381 ANG
+ ATOM:  9  As9       AT  0.1250 -0.3750  0.1250 IS  9.00383 A.U.   4.76462 ANG
+ ATOM:  9  As9       AT  0.1250  0.1250 -0.3750 IS  9.00383 A.U.   4.76462 ANG
+ ATOM:  8  As8       AT -0.3750  0.1250  0.1250 IS  9.02793 A.U.   4.77737 ANG
+Atom   1 equiv  1 Ga1        Bond-Valence Sum     0.68    0.73
+
+ ATOM:  2  EQUIV.  1  Ga2        AT   0.50000   0.00000   0.00000
+ RMT(  2)=2.33000 AND RMT(  8)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM:  8  As8       AT  0.6250  0.1250  0.1250 IS  4.70523 A.U.   2.48990 ANG
+ ATOM: 10  As10      AT  0.6250 -0.3750  0.1250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM: 10  As10      AT  0.6250  0.1250 -0.3750 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  7  As7       AT  0.1250  0.1250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+Atom   2 equiv  1 Ga2        Bond-Valence Sum     0.67    0.72
+
+ ATOM:  3  EQUIV.  1  Ga3        AT   0.00000   0.50000   0.00000
+ RMT(  3)=2.33000 AND RMT(  9)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM:  9  As9       AT  0.1250  0.6250  0.1250 IS  4.70523 A.U.   2.48990 ANG
+ ATOM: 10  As10      AT -0.3750  0.6250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM: 11  As11      AT  0.1250  0.6250 -0.3750 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  7  As7       AT  0.1250  0.1250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+Atom   3 equiv  1 Ga3        Bond-Valence Sum     0.67    0.72
+
+ ATOM:  3  EQUIV.  2  Ga3        AT   0.00000   0.00000   0.50000
+ ATOM:  9  As9       AT  0.1250  0.1250  0.6250 IS  4.70523 A.U.   2.48990 ANG
+ ATOM: 10  As10      AT -0.3750  0.1250  0.6250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM: 11  As11      AT  0.1250 -0.3750  0.6250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  7  As7       AT  0.1250  0.1250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+
+ ATOM:  4  EQUIV.  1  Ga4        AT   0.50000   0.50000   0.00000
+ RMT(  4)=2.33000 AND RMT( 10)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM: 10  As10      AT  0.6250  0.6250  0.1250 IS  4.70523 A.U.   2.48990 ANG
+ ATOM: 12  As12      AT  0.6250  0.6250 -0.3750 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  8  As8       AT  0.6250  0.1250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  9  As9       AT  0.1250  0.6250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+Atom   4 equiv  1 Ga4        Bond-Valence Sum     0.67    0.72
+
+ ATOM:  4  EQUIV.  2  Ga4        AT   0.50000   0.00000   0.50000
+ ATOM: 10  As10      AT  0.6250  0.1250  0.6250 IS  4.70523 A.U.   2.48990 ANG
+ ATOM: 12  As12      AT  0.6250 -0.3750  0.6250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  8  As8       AT  0.6250  0.1250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  9  As9       AT  0.1250  0.1250  0.6250 IS  9.00984 A.U.   4.76780 ANG
+
+ ATOM:  5  EQUIV.  1  Ga5        AT   0.00000   0.50000   0.50000
+ RMT(  5)=2.33000 AND RMT( 11)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM: 11  As11      AT  0.1250  0.6250  0.6250 IS  4.70523 A.U.   2.48990 ANG
+ ATOM: 12  As12      AT -0.3750  0.6250  0.6250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  9  As9       AT  0.1250  0.6250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  9  As9       AT  0.1250  0.1250  0.6250 IS  9.00984 A.U.   4.76780 ANG
+Atom   5 equiv  1 Ga5        Bond-Valence Sum     0.67    0.72
+
+ ATOM:  6  EQUIV.  1  Ga6        AT   0.50000   0.50000   0.50000
+ RMT(  6)=2.33000 AND RMT( 12)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM: 12  As12      AT  0.6250  0.6250  0.6250 IS  4.70523 A.U.   2.48990 ANG
+ ATOM: 10  As10      AT  0.6250  0.6250  0.1250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM: 10  As10      AT  0.6250  0.1250  0.6250 IS  9.00984 A.U.   4.76780 ANG
+ ATOM: 11  As11      AT  0.1250  0.6250  0.6250 IS  9.00984 A.U.   4.76780 ANG
+Atom   6 equiv  1 Ga6        Bond-Valence Sum     0.67    0.72
+
+ ATOM:  7  EQUIV.  1  As7        AT   0.12500   0.12500   0.12500
+ RMT(  7)=2.33000 AND RMT(  1)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.69372
+ ATOM:  1  Ga1       AT  0.0009  0.0000  0.0000 IS  4.69372 A.U.   2.48381 ANG
+ ATOM:  2  Ga2       AT  0.5000  0.0000  0.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  3  Ga3       AT  0.0000  0.5000  0.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  3  Ga3       AT  0.0000  0.0000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+Atom   7 equiv  1 As7        Bond-Valence Sum     0.68    0.73
+
+ ATOM:  8  EQUIV.  1  As8        AT   0.62500   0.12500   0.12500
+ RMT(  8)=2.33000 AND RMT(  2)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM:  2  Ga2       AT  0.5000  0.0000  0.0000 IS  4.70523 A.U.   2.48990 ANG
+ ATOM:  4  Ga4       AT  0.5000  0.5000  0.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  4  Ga4       AT  0.5000  0.0000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  1  Ga1       AT  1.0009  0.0000  0.0000 IS  9.02793 A.U.   4.77737 ANG
+Atom   8 equiv  1 As8        Bond-Valence Sum     0.67    0.72
+
+ ATOM:  9  EQUIV.  1  As9        AT   0.12500   0.62500   0.12500
+ RMT(  9)=2.33000 AND RMT(  3)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM:  3  Ga3       AT  0.0000  0.5000  0.0000 IS  4.70523 A.U.   2.48990 ANG
+ ATOM:  1  Ga1       AT  0.0009  1.0000  0.0000 IS  9.00383 A.U.   4.76462 ANG
+ ATOM:  4  Ga4       AT  0.5000  0.5000  0.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  5  Ga5       AT  0.0000  0.5000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+Atom   9 equiv  1 As9        Bond-Valence Sum     0.67    0.72
+
+ ATOM:  9  EQUIV.  2  As9        AT   0.12500   0.12500   0.62500
+ ATOM:  3  Ga3       AT  0.0000  0.0000  0.5000 IS  4.70523 A.U.   2.48990 ANG
+ ATOM:  1  Ga1       AT  0.0009  0.0000  1.0000 IS  9.00383 A.U.   4.76462 ANG
+ ATOM:  4  Ga4       AT  0.5000  0.0000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  5  Ga5       AT  0.0000  0.5000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+
+ ATOM: 10  EQUIV.  1  As10       AT   0.62500   0.62500   0.12500
+ RMT( 10)=2.33000 AND RMT(  4)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM:  4  Ga4       AT  0.5000  0.5000  0.0000 IS  4.70523 A.U.   2.48990 ANG
+ ATOM:  6  Ga6       AT  0.5000  0.5000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  2  Ga2       AT  0.5000  1.0000  0.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  3  Ga3       AT  1.0000  0.5000  0.0000 IS  9.00984 A.U.   4.76780 ANG
+Atom  10 equiv  1 As10       Bond-Valence Sum     0.67    0.72
+
+ ATOM: 10  EQUIV.  2  As10       AT   0.62500   0.12500   0.62500
+ ATOM:  4  Ga4       AT  0.5000  0.0000  0.5000 IS  4.70523 A.U.   2.48990 ANG
+ ATOM:  6  Ga6       AT  0.5000  0.5000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  2  Ga2       AT  0.5000  0.0000  1.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  3  Ga3       AT  1.0000  0.0000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+
+ ATOM: 11  EQUIV.  1  As11       AT   0.12500   0.62500   0.62500
+ RMT( 11)=2.33000 AND RMT(  5)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM:  5  Ga5       AT  0.0000  0.5000  0.5000 IS  4.70523 A.U.   2.48990 ANG
+ ATOM:  6  Ga6       AT  0.5000  0.5000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  3  Ga3       AT  0.0000  0.5000  1.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  3  Ga3       AT  0.0000  1.0000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+Atom  11 equiv  1 As11       Bond-Valence Sum     0.67    0.72
+
+ ATOM: 12  EQUIV.  1  As12       AT   0.62500   0.62500   0.62500
+ RMT( 12)=2.33000 AND RMT(  6)=2.33000
+ SUMS TO 4.66000  LT.  NN-DIST= 4.70523
+ ATOM:  6  Ga6       AT  0.5000  0.5000  0.5000 IS  4.70523 A.U.   2.48990 ANG
+ ATOM:  5  Ga5       AT  1.0000  0.5000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  4  Ga4       AT  0.5000  0.5000  1.0000 IS  9.00984 A.U.   4.76780 ANG
+ ATOM:  4  Ga4       AT  0.5000  1.0000  0.5000 IS  9.00984 A.U.   4.76780 ANG
+Atom  12 equiv  1 As12       Bond-Valence Sum     0.67    0.72
+
+
+SHELL STRUCTURE for all ATOMS:
+ATOM  | DISTANCE   #of NEIGHBORS   Z |
+  1 | 4.694  11006.0| 9.004  21008.0| 9.028  11007.0|10.846  11001.0|
+  2 | 4.705  11007.0| 9.010  21009.0| 9.010  11006.0|10.846  11000.0|10.866  41003.0|
+  3 | 4.705  11008.0| 9.010  11009.0| 9.010  11010.0| 9.010  11006.0|10.866  21003.0|10.866  21004.0|10.866  21000.0|
+  4 | 4.705  11008.0| 9.010  11009.0| 9.010  11010.0| 9.010  11006.0|10.866  21003.0|10.866  21004.0|10.866  21000.0|
+  5 | 4.705  11009.0| 9.010  11011.0| 9.010  11007.0| 9.010  11008.0|10.866  21005.0|10.866  21001.0|10.866  21002.0|11.841  11009.0
+|11.841  11010.0|11.841  11006.0|
+  6 | 4.705  11009.0| 9.010  11011.0| 9.010  11007.0| 9.010  11008.0|10.866  21005.0|10.866  21001.0|10.866  21002.0|11.841  11010.0
+|11.841  11006.0|11.841  11009.0|
+  7 | 4.705  11010.0| 9.010  11011.0| 9.010  21008.0|10.866  21005.0|10.866  41002.0|11.841  11006.0|11.841  21009.0|
+  8 | 4.705  11011.0| 9.010  21009.0| 9.010  11010.0|10.866  41003.0|10.866  21004.0|11.841  11007.0|11.841  21008.0|
+  9 | 4.694  11000.0| 9.010  11001.0| 9.010  21002.0|10.866  21007.0|10.866  41008.0|11.841  21003.0|11.841  11004.0|
+ 10 | 4.705  11001.0| 9.010  21003.0| 9.028  11000.0|10.866  41009.0|10.866  21006.0|
+ 11 | 4.705  11002.0| 9.004  11000.0| 9.010  11003.0| 9.010  11004.0|10.866  21009.0|10.866  21010.0|10.866  21006.0|
+ 12 | 4.705  11002.0| 9.004  11000.0| 9.010  11003.0| 9.010  11004.0|10.866  21009.0|10.866  21010.0|10.866  21006.0|
+ 13 | 4.705  11003.0| 9.010  11005.0| 9.010  11001.0| 9.010  11002.0|10.866  21011.0|10.866  21007.0|10.866  21008.0|11.841  11003.0
+|11.841  11004.0|
+ 14 | 4.705  11003.0| 9.010  11005.0| 9.010  11001.0| 9.010  11002.0|10.866  21011.0|10.866  21007.0|10.866  21008.0|11.841  11003.0
+|11.841  11004.0|
+ 15 | 4.705  11004.0| 9.010  11005.0| 9.010  21002.0|10.866  21011.0|10.866  41008.0|11.837  11000.0|
+ 16 | 4.705  11005.0| 9.010  11004.0| 9.010  21003.0|10.866  41009.0|10.866  21010.0|11.841  11001.0|11.841  21002.0|
+
+
+LISTING of INDEX of all EQUIVALENT ATOMS:
+
+ ATOM:   1 and ATOM:   1 are equivalent
+
+ ATOM:   2 and ATOM:   2 are equivalent
+
+ ATOM:   3 and ATOM:   3 are equivalent
+ ATOM:   3 and ATOM:   4 are equivalent
+
+ ATOM:   5 and ATOM:   5 are equivalent
+ ATOM:   5 and ATOM:   6 are equivalent
+
+ ATOM:   7 and ATOM:   7 are equivalent
+
+ ATOM:   8 and ATOM:   8 are equivalent
+
+ ATOM:   9 and ATOM:   9 are equivalent
+
+ ATOM:  10 and ATOM:  10 are equivalent
+
+ ATOM:  11 and ATOM:  11 are equivalent
+ ATOM:  11 and ATOM:  12 are equivalent
+
+ ATOM:  13 and ATOM:  13 are equivalent
+ ATOM:  13 and ATOM:  14 are equivalent
+
+ ATOM:  15 and ATOM:  15 are equivalent
+
+ ATOM:  16 and ATOM:  16 are equivalent
+
+
+ ATOM KIND:   1  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   2  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   3  OLD and NEW MULTIPLICITY:     2   2
+
+ ATOM KIND:   4  OLD and NEW MULTIPLICITY:     2   2
+
+ ATOM KIND:   5  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   6  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   7  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   8  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   9  OLD and NEW MULTIPLICITY:     2   2
+
+ ATOM KIND:  10  OLD and NEW MULTIPLICITY:     2   2
+
+ ATOM KIND:  11  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:  12  OLD and NEW MULTIPLICITY:     1   1
