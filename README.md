@@ -55,12 +55,18 @@ Team Member 4:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
+- [Writeup for tasks a-c]()
+For task d, we have the following demo apps:
+- [Demo app for AI method - Supervised Machine Learning Model](https://colab.research.google.com/drive/1mSladZBswjXVaJz-yGJzyTS3AdmbjAKj?usp=sharing). Note: we also include it as a python file [here](https://github.com/mariapasaylo/Quantum-AI-for-Climate/blob/main/ml_demo.py).
+- [Demo app for Quantum Method - DFTineDMFT](https://github.com/mariapasaylo/Quantum-AI-for-Climate/tree/main/DFT%2BeDMFT)
+
+
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
-[Presentation deck](https://www.canva.com/design/DAGNXN12ouE/GuXluj2E0d3xaLNEHxRHPQ/view?utm_content=DAGNXN12ouE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+- [Presentation deck](https://www.canva.com/design/DAGNXN12ouE/GuXluj2E0d3xaLNEHxRHPQ/view?utm_content=DAGNXN12ouE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
-[Presentation Recording](https://drive.google.com/file/d/1pa0giNP-q8cKMO1VWazqnVz5ystgByDh/view?usp=sharing)
+- [Presentation Recording](https://drive.google.com/file/d/1pa0giNP-q8cKMO1VWazqnVz5ystgByDh/view?usp=sharing)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
