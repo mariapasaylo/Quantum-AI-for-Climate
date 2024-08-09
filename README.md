@@ -58,7 +58,7 @@ All necessary code files and any additional information required to judge your p
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
-[Slide deck](https://www.canva.com/design/DAGNXN12ouE/GuXluj2E0d3xaLNEHxRHPQ/view?utm_content=DAGNXN12ouE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+[Presentation deck](https://www.canva.com/design/DAGNXN12ouE/GuXluj2E0d3xaLNEHxRHPQ/view?utm_content=DAGNXN12ouE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 [Presentation Recording](https://drive.google.com/file/d/1pa0giNP-q8cKMO1VWazqnVz5ystgByDh/view?usp=sharing)
 
