@@ -1,0 +1,24 @@
+#==================================================================
+# OMERE 5.8.1.35459 - Orbit
+#
+# File: C:\Users\Soheil\Documents\OMERE 5.8\orbit.dat
+# Creation: 08/08/2024 19:45:03
+#==================================================================
+
+# Number of segment(s) in the mission: 1
+
+#*************************************************************
+# Segment : 1/1
+#*************************************************************
+# Name :                                Orbit GEO
+# Duration :                            15 year(s)
+# Simple position segment
+# Altitude :                            35784.000000km
+# Longitude :                           0.000000°
+# Latitude :                            0.000000°
+
+
+#      altitude      latitude     longitude         time
+#          (km)           (°)           (°)          (s)
+  35784.000000         0.000         0.000           1.0
+
