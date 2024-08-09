@@ -55,7 +55,7 @@ Team Member 4:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
-- [Writeup for tasks a-c]()
+- [Writeup for tasks a-c]() STILL NEED TO UPLOAD PDF FILE SO WE CAN ADD A LINK HERE
 
 For task d, we have the following demo apps:
 - [Demo app for AI method - Supervised Machine Learning Model](https://colab.research.google.com/drive/1mSladZBswjXVaJz-yGJzyTS3AdmbjAKj?usp=sharing). We recommend running the code through google colab notebook in the order that the cells appear. Note: we also include it as a python file [here](https://github.com/mariapasaylo/Quantum-AI-for-Climate/blob/main/ml_demo.py).
