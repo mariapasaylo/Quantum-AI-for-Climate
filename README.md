@@ -56,6 +56,7 @@ _Include a comprehensive summary of all important information about your project
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 - [Writeup for tasks a-c]()
+
 For task d, we have the following demo apps:
 - [Demo app for AI method - Supervised Machine Learning Model](https://colab.research.google.com/drive/1mSladZBswjXVaJz-yGJzyTS3AdmbjAKj?usp=sharing). Note: we also include it as a python file [here](https://github.com/mariapasaylo/Quantum-AI-for-Climate/blob/main/ml_demo.py).
 - [Demo app for Quantum Method - DFTineDMFT](https://github.com/mariapasaylo/Quantum-AI-for-Climate/tree/main/DFT%2BeDMFT)
