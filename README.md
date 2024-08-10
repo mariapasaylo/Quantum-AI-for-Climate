@@ -60,7 +60,7 @@ All necessary code files and any additional information required to judge your p
 For task d, we have the following demo apps:
 - [Demo app for AI method - Supervised Machine Learning Model](https://colab.research.google.com/drive/1mSladZBswjXVaJz-yGJzyTS3AdmbjAKj?usp=sharing). We recommend running the code through google colab notebook in the order that the cells appear. Note: we also include it as a python file [here](https://github.com/mariapasaylo/Quantum-AI-for-Climate/blob/main/ml_demo.py).
 - [Demo app for Quantum Method - DFTineDMFT](https://github.com/mariapasaylo/Quantum-AI-for-Climate/tree/main/DFT%2BeDMFT). As an example, we implement this method on the material, GaAs. This method consists of two general parts, initialization and running the job. Since running the job requires a powerful computing system, we only did the init part, that is described [here](https://github.com/mariapasaylo/Quantum-AI-for-Climate/blob/main/DFT%2BeDMFT/GaAs/GaAs.ipynb).
-- [Simulation Results](https://github.com/mariapasaylo/Quantum-AI-for-Climate/tree/main/DFT%2BeDMFT). For instance, we model the end-of-life (EOL) performance of GaAs PV in GEO orbit. The complete results are available [here](https://github.com/mariapasaylo/Quantum-AI-for-Climate/tree/main/DFT%2BeDMFT).
+- [Results - Solar Cell Degradation Simulation](https://github.com/mariapasaylo/Quantum-AI-for-Climate/tree/main/DFT%2BeDMFT). For instance, we model the end-of-life (EOL) performance of GaAs PV in GEO orbit. The complete results are available [here](https://github.com/mariapasaylo/Quantum-AI-for-Climate/tree/main/DFT%2BeDMFT).
 
 
 ### Project Presentation Deck:
