@@ -66,9 +66,8 @@ For task d, we have the following demo apps:
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
 
-- [Presentation deck](https://www.canva.com/design/DAGNXN12ouE/GuXluj2E0d3xaLNEHxRHPQ/view?utm_content=DAGNXN12ouE&utm_campaign=designshare&utm_medium=link&utm_source=viewer).
-- [Presentation deck PDF version](https://github.com/mariapasaylo/Quantum-AI-for-Climate/blob/main/%5BWomanium24%5DQuantum_and_AI_Project_Submission_Entangled_Energy_Slides.pdf).
-
+- [Presentation deck](https://www.canva.com/design/DAGNXN12ouE/GuXluj2E0d3xaLNEHxRHPQ/view?utm_content=DAGNXN12ouE&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+- [Presentation deck PDF version](https://github.com/mariapasaylo/Quantum-AI-for-Climate/blob/main/%5BWomanium24%5DQuantum_and_AI_Project_Submission_Entangled_Energy_Slides.pdf)
 - [Presentation Recording](https://drive.google.com/file/d/1pa0giNP-q8cKMO1VWazqnVz5ystgByDh/view?usp=sharing)
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
